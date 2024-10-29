@@ -4,4 +4,4 @@ This dataset provides a comprehensive analysis of mobile device usage patterns a
 
 Dataset URL: [Mobile Device Usage and User Behavior Dataset](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset/data)
 
-In this projcect will shown visualization & analysis data.
+In this projcect will shown visualization & analysis data with user behavior dataset.
